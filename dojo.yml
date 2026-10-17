@@ -1,5 +1,5 @@
-id: jim-linux-class
-name: Jim 的 Linux 練習班
+id: cybersecurity_practice
+name: Cybersecurity_practice
 
 modules:
   - import:
@@ -25,3 +25,9 @@ modules:
   - import:
       dojo: linux-luminarium
       module: chaining
+      
+  - id: web-practice
+    name: Web 練習｜網站安全
+    import:
+      dojo: intro-to-cybersecurity
+      module: web-security
