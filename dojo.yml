@@ -1,33 +1,7 @@
 id: cybersecurity-practice
-name: Cybersecurity-practice
+name: 資安專班練習
 
 modules:
-  - import:
+  - import: 
       dojo: linux-luminarium
-      module: commands
 
-  - import:
-      dojo: linux-luminarium
-      module: users
-
-  - import:
-      dojo: linux-luminarium
-      module: permissions
-
-  - import:
-      dojo: linux-luminarium
-      module: piping
-
-  - import:
-      dojo: linux-luminarium
-      module: processes
-
-  - import:
-      dojo: linux-luminarium
-      module: chaining
-      
-  - id: web-practice
-    name: Web 練習｜網站安全
-    import:
-      dojo: intro-to-cybersecurity
-      module: web-security
