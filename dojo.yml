@@ -6,7 +6,6 @@ modules:
   - import: { dojo: linux-luminarium, module: commands }
   - import: { dojo: linux-luminarium, module: man }
   - import: { dojo: linux-luminarium, module: globbing }
-  - import: { dojo: linux-luminarium, module: piping }
   - import: { dojo: linux-luminarium, module: variables }
   - import: { dojo: linux-luminarium, module: data }
   - import: { dojo: linux-luminarium, module: processes }
