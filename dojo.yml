@@ -17,5 +17,3 @@ modules:
   - import: { dojo: linux-luminarium, module: path }
   - import: { dojo: linux-luminarium, module: shenanigans }
   - import: { dojo: linux-luminarium, module: destruction }
-  - import: { dojo: linux-luminarium, module: further-learning }
-
