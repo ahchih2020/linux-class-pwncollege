@@ -10,8 +10,10 @@ modules:
   - import: { dojo: linux-luminarium, module: processes }
   - import: { dojo: linux-luminarium, module: users }
   - import: { dojo: linux-luminarium, module: permissions }
-  - import: { dojo: linux-luminarium, module: chaining }
   - import: { dojo: linux-luminarium, module: terminal-multiplexing }
   - import: { dojo: linux-luminarium, module: path }
-  - import: { dojo: linux-luminarium, module: shenanigans }
   - import: { dojo: linux-luminarium, module: destruction }
+  - import: { dojo: linux-luminarium, module: chaining }
+  - import: { dojo: linux-luminarium, module: shenanigans }
+
+
